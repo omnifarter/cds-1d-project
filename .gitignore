@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+**/_MACOSX
+cmu-mosi
+speech-emotion/*
+!speech-emotion/speech-emotion.ipynb
